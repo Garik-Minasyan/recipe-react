@@ -1,0 +1,36 @@
+.recipe {
+  width: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 15px;
+  padding: 5px;
+  border: 1px solid yellowgreen;
+}
+.recipe img {
+  width: 130px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.url-recipe {
+  text-decoration: none;
+  color: brown;
+  font-size: 12px;
+}
+.url-button {
+  width: 100%;
+  height: 90px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  margin-top: 20px;
+}
+.recipe h6 {
+  user-select: none;
+}
+
+.url-button button {
+  margin-left: 30px;
+}

@@ -1,0 +1,16 @@
+.ingredient {
+  width: 150px;
+}
+
+.ingredient-text {
+  font-size: 10px;
+  color: rgb(165, 153, 42);
+  border-bottom: 0.1px solid black;
+  margin-top: 3px;
+}
+.ingredient-weight {
+  font-size: 10px;
+  color: darkblue;
+  border-bottom: 0.1px solid black;
+  margin-top: 3px;
+}
